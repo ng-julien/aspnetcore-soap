@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Roi.Client": {
+      "commandName": "Project",
+      "commandLineArgs": "--environment Development"
+    }
+  }
+}
